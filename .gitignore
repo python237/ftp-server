@@ -1,0 +1,4 @@
+.idea
+*.pyc
+storage
+venv
